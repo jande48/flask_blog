@@ -6,6 +6,13 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+flask-wtf = "*"
+email-validator = "*"
+flask-sqlalcehmy = "*"
+flask-sqlalchemy = "*"
+tree = "*"
+flask-bcrypt = "*"
+flask-login = "*"
 
 [requires]
 python_version = "3.7"
