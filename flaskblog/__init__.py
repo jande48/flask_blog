@@ -29,4 +29,3 @@ app.register_blueprint(users)
 app.register_blueprint(posts)
 app.register_blueprint(main)
 
-
